@@ -9,7 +9,7 @@
 ## Statistics
 
 [![stat](https://github-stats-extended.vercel.app/api?username=yuanowo&theme=tokyonight&show_icons=true&count_private=true&hide=issues)](https://github.com/YuanOwO)  
-[![lang](github-stats-extended.vercel.app/api/top-langs?username=yuanowo&theme=tokyonight&count_private=true&layout=compact&hide=html)](https://github.com/YuanOwO)
+[![lang](https://github-stats-extended.vercel.app/api/top-langs?username=yuanowo&theme=tokyonight&count_private=true&layout=compact&hide=html)](https://github.com/YuanOwO)
 
 ## Languages and Tools
 
